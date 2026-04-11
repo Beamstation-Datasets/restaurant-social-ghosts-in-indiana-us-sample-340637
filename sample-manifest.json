@@ -1,0 +1,12 @@
+{
+  "export_job_id": "622ca4ae-297d-450e-9c73-84f245800020",
+  "id_short": 340637,
+  "published_at": "2026-04-11T07:31:44Z",
+  "repo_name": "restaurant-social-ghosts-in-indiana-us-sample-340637",
+  "sample_asset_name": "beamstation_340637_restaurants-us-in_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/340637/beamstation_340637_restaurants-us-in_SAMPLE_DIST.csv",
+  "sample_records": 22,
+  "sample_sha256": "e0037b60d01a89eec099bab8abb92e1acaf71296c3340f68be87f4a875b3dfe4",
+  "sample_size_bytes": 88971,
+  "total_records": 225
+}
