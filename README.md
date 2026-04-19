@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Indiana, US
 
-> Free BeamStation sample export with 22 rows and masked direct-contact fields.
+> Free BeamStation sample export with 19 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `340637` |
 | Location | Indiana |
 | Category | Restaurants |
-| Full dataset size | 225 records |
-| Free sample size | 22 records (9.78%) |
-| Last export | 2026-04-08T07:46:43.396154+00:00 |
+| Full dataset size | 198 records |
+| Free sample size | 19 records (9.6%) |
+| Last export | 2026-04-15T11:03:07.091550+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-indiana-us-sample-340637/releases/download/sample-latest/beamstation_340637_restaurants-us-in_SAMPLE_DIST.csv) |
 
 ## What is in this sample
